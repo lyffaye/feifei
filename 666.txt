@@ -41,31 +41,31 @@ CCTV-16 奥林匹克4K ,https://live.v1.mk/aishang/cctv164k
 凤凰资讯 ,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 
 央视|频道,#genre#
-CCTV-1 综合 ,https://live.v1.mk/aishang/cctv1hd
-CCTV-2 财经 ,https://live.v1.mk/aishang/cctv2hd
-CCTV-3 综艺 ,https://live.v1.mk/aishang/cctv3hd
-CCTV-4 中文国际 ,https://live.v1.mk/aishang/cctv4hd
-CCTV-5 体育 ,https://live.v1.mk/aishang/cctv5hd
-CCTV-5+ 体育赛事 ,https://live.v1.mk/aishang/cctv5p
-CCTV-6 电影 ,https://live.v1.mk/aishang/cctv6hd
-CCTV-7 国防军事 ,https://live.v1.mk/aishang/cctv7hd
-CCTV-8 电视剧 ,https://live.v1.mk/aishang/cctv8hd
-CCTV-9 纪录 ,https://live.v1.mk/aishang/cctv9hd2
-CCTV-10 科教 ,https://live.v1.mk/aishang/cctv10hd
-CCTV-11 戏曲 ,https://live.v1.mk/aishang/cctv11hd
-CCTV-12 社会与法 ,https://live.v1.mk/aishang/cctv12hd
-CCTV-13 新闻 ,https://live.v1.mk/aishang/cctv13hd
-CCTV-14 少儿 ,https://live.v1.mk/aishang/cctv14hd
-CCTV-15 音乐 ,https://live.v1.mk/aishang/cctv15hd
-CCTV-16 奥林匹克 ,https://live.v1.mk/aishang/cctv16hd
-CCTV-17 农业农村 ,https://live.v1.mk/aishang/cctv17hd
+CCTV-1 综合,https://live.v1.mk/aishang/cctv1hd
+CCTV-1 综合,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
+CCTV-1 综合,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
+CCTV-2 财经,https://live.v1.mk/aishang/cctv2hd
+CCTV-3 综艺,https://live.v1.mk/aishang/cctv3hd
+CCTV-4 中文国际,https://live.v1.mk/aishang/cctv4hd
+CCTV-5 体育,https://live.v1.mk/aishang/cctv5hd
+CCTV-5+ 体育赛事,https://live.v1.mk/aishang/cctv5p
+CCTV-6 电影,https://live.v1.mk/aishang/cctv6hd
+CCTV-7 国防军事,https://live.v1.mk/aishang/cctv7hd
+CCTV-8 电视剧,https://live.v1.mk/aishang/cctv8hd
+CCTV-9 纪录,https://live.v1.mk/aishang/cctv9hd2
+CCTV-10 科教,https://live.v1.mk/aishang/cctv10hd
+CCTV-11 戏曲,https://live.v1.mk/aishang/cctv11hd
+CCTV-12 社会与法,https://live.v1.mk/aishang/cctv12hd
+CCTV-13 新闻,https://live.v1.mk/aishang/cctv13hd
+CCTV-14 少儿,https://live.v1.mk/aishang/cctv14hd
+CCTV-15 音乐,https://live.v1.mk/aishang/cctv15hd
+CCTV-16 奥林匹克,https://live.v1.mk/aishang/cctv16hd
+CCTV-17 农业农村,https://live.v1.mk/aishang/cctv17hd
 CGTN ,https://live.v1.mk/aishang/cgtnhd
 
-央视2|频道,#genre#
-CCTV1 8M,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
-CCTV2 8M,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
-CCTV3 8M,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
-CCTV4 8M,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
+CCTV-2 财经,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
+CCTV-3 综艺,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
+CCTV-4 中文国际,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
 CCTV5 8M,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
 CCTV5+ 8M,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 CCTV6 8M,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
@@ -81,11 +81,10 @@ CCTV15 8M,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
 CCTV16 8M,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
 CCTV17 8M,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 
-央视3|频道,#genre#
-CCTV-1 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
-CCTV-2 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
-CCTV-3 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
-CCTV-4 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
+
+CCTV-2 财经,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
+CCTV-3 综艺,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
+CCTV-4 中文国际,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
 CCTV-5 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
 CCTV5+ 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
 CCTV-6 高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
