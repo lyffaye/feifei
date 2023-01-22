@@ -1,21 +1,15 @@
 
 
 
-4K|频道,#genre#
-欢笑剧场4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
-CCTV-4K,http://159.75.85.63:5679/cctv4k.php
-CCTV-16 奥林匹克4K ,https://live.v1.mk/aishang/cctv164k
-爱上4K,https://live.v1.mk/aishang/as4k
-
 财经|频道,#genre#
-东方财经 8M,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
-东方财经,https://live.v1.mk/api/ghyx.php?id=DongFangCaiJingHD_6000
-东方财经,http://tt-live.bestvcdn.com.cn/live/program/live/dfcjhd8m/8000000/mnf.m3u8
-上海第一财经 8M,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
-上海第一财经,http://tt-live.bestvcdn.com.cn/live/program/live/dycjhd8m/8000000/mnf.m3u8
-上海第一财经,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
-点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
-点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
+东方财经 ,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
+东方财经 ,https://live.v1.mk/api/ghyx.php?id=DongFangCaiJingHD_6000
+东方财经 ,http://tt-live.bestvcdn.com.cn/live/program/live/dfcjhd8m/8000000/mnf.m3u8
+上海第一财经 ,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
+上海第一财经 ,http://tt-live.bestvcdn.com.cn/live/program/live/dycjhd8m/8000000/mnf.m3u8
+上海第一财经 ,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
+点掌财经 ,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
+点掌财经 ,http://cclive2.aniu.tv/live/anzb.m3u8
 
 凤凰|频道,#genre#
 凤凰中文 ,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -166,7 +160,7 @@ CCTV-17 ,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f/
 安徽卫视 ,http://baidu.live.cqccn.com/__cl/cg:live/__c/anhuiSD/__op/default/__f//index.m3u8
 山西卫视 ,http://baidu.live.cqccn.com/__cl/cg:live/__c/shanxiSD/__op/default/__f//index.m3u8
 广东卫视 ,http://baidu.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f//index.m3u8
-广西卫视 清,http://baidu.live.cqccn.com/__cl/cg:live/__c/guangxiHD/__op/default/__f//index.m3u8
+广西卫视 ,http://baidu.live.cqccn.com/__cl/cg:live/__c/guangxiHD/__op/default/__f//index.m3u8
 新疆卫视 ,http://baidu.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/default/__f//index.m3u8
 江苏卫视 ,http://baidu.live.cqccn.com/__cl/cg:live/__c/jiangsuHD/__op/default/__f//index.m3u8
 江西卫视 ,http://baidu.live.cqccn.com/__cl/cg:live/__c/jiangxiHD/__op/default/__f//index.m3u8
@@ -183,5 +177,11 @@ CCTV-17 ,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f/
 重庆卫视 ,http://baidu.live.cqccn.com/__cl/cg:live/__c/chongqingHD/__op/default/__f//index.m3u8
 青海卫视 ,http://baidu.live.cqccn.com/__cl/cg:live/__c/qinghaiSD/__op/default/__f//index.m3u8
 黑龙江卫视 ,http://baidu.live.cqccn.com/__cl/cg:live/__c/heilongjiangHD/__op/default/__f//index.m3u8
+
+4K|频道,#genre#
+欢笑剧场4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
+CCTV-4K,http://159.75.85.63:5679/cctv4k.php
+CCTV-16 奥林匹克4K ,https://live.v1.mk/aishang/cctv164k
+爱上4K,https://live.v1.mk/aishang/as4k
 
 
