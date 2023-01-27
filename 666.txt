@@ -206,5 +206,6 @@ BesTV-4K ,http://74.119.193.113:8280/live/bestv4k/hls.m3u8
 五星体育 ,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育 ,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 北京体育 ,https://live.v1.mk/api/ghyx.php?id=BTVjishiHD_6000
+北京体育 ,http://iptv.cooltv.top/tv/btime.php?id=bjjs
 天津体育 ,http://home.bh3bbb.com:40000/udp/225.1.1.122:5002
 山东体育 ,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
