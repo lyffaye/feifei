@@ -181,9 +181,19 @@ CCTV-17 ,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f/
 黑龙江卫视 ,http://baidu.live.cqccn.com/__cl/cg:live/__c/heilongjiangHD/__op/default/__f//index.m3u8
 
 4K|频道,#genre#
-欢笑剧场4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
-CCTV-4K,http://159.75.85.63:5679/cctv4k.php
+欢笑剧场4K ,http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
+欢笑剧场4K ,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
+CCTV-4K ,http://159.75.85.63:5679/cctv4k.php
 CCTV-16 奥林匹克4K ,https://live.v1.mk/aishang/cctv164k
-爱上4K,https://live.v1.mk/aishang/as4k
+爱上4K ,https://live.v1.mk/aishang/as4k
+苏州4K ,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
-
+体育|频道,#genre#
+劲爆体育 ,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆体育 ,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+劲爆体育 ,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
+五星体育 ,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育 ,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+北京体育 ,https://live.v1.mk/api/ghyx.php?id=BTVjishiHD_6000
+天津体育 ,http://home.bh3bbb.com:40000/udp/225.1.1.122:5002
+山东体育 ,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
