@@ -7,6 +7,8 @@
 东方财经 ,http://tt-live.bestvcdn.com.cn/live/program/live/dfcjhd8m/8000000/mnf.m3u8
 上海第一财经 ,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
 上海第一财经 ,http://tt-live.bestvcdn.com.cn/live/program/live/dycjhd8m/8000000/mnf.m3u8
+上海第一财经 ,https://www.whalenas.com/bestv/index.php?id=dycjhd8m/8000000
+上海第一财经 ,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
 上海第一财经 ,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
 点掌财经 ,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
 点掌财经 ,http://cclive2.aniu.tv/live/anzb.m3u8
@@ -34,7 +36,7 @@
 凤凰资讯 ,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯 ,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯 ,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
-
+翡翠台 ,https://cdn.hklive.tv/xxxx/81/index.m3u8
 
 央视|频道,#genre#
 CCTV-1 ,https://live.v1.mk/aishang/cctv1hd
@@ -193,10 +195,16 @@ BesTV-4K ,http://74.119.193.113:8280/live/bestv4k/hls.m3u8
 
 体育|频道,#genre#
 劲爆体育 ,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆体育 ,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆体育 ,http://61.156.196.215/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 劲爆体育 ,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 劲爆体育 ,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
 五星体育 ,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育 ,http://61.156.196.215/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育 ,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育 ,http://223.111.143.136/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育 ,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育 ,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 北京体育 ,https://live.v1.mk/api/ghyx.php?id=BTVjishiHD_6000
 天津体育 ,http://home.bh3bbb.com:40000/udp/225.1.1.122:5002
 山东体育 ,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
