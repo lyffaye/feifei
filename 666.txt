@@ -187,6 +187,9 @@ CCTV-4K ,http://159.75.85.63:5679/cctv4k.php
 CCTV-16 奥林匹克4K ,https://live.v1.mk/aishang/cctv164k
 爱上4K ,https://live.v1.mk/aishang/as4k
 苏州4K ,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+北京IPTV-4K ,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
+BesTV-4K ,http://74.119.193.113:8280/live/bestv4k/hls.m3u8
+4K影视 ,http://159.75.85.63:5828/4kys.php
 
 体育|频道,#genre#
 劲爆体育 ,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
