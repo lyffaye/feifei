@@ -2,6 +2,7 @@
 
 
 财经|频道,#genre#
+东方财经 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227087/index.m3u8
 东方财经 ,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
 东方财经 ,https://live.v1.mk/api/ghyx.php?id=DongFangCaiJingHD_6000
 东方财经 ,http://tt-live.bestvcdn.com.cn/live/program/live/dfcjhd8m/8000000/mnf.m3u8
