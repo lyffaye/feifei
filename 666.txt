@@ -366,3 +366,4 @@ BTV纪实科教-8KSDR源 ,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1
 北京体育 ,http://iptv.cooltv.top/tv/btime.php?id=bjjs
 天津体育 ,http://home.bh3bbb.com:40000/udp/225.1.1.122:5002
 山东体育 ,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
+咪咕体育 ,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
