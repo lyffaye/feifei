@@ -227,6 +227,23 @@ CCTV17 ,http://118.24.227.124/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m
 黑龙江卫视 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227197/index.m3u8
 
 
+北京卫视 ,https://live.v1.mk/api/fjgd.php?id=bjws
+天津卫视 ,https://live.v1.mk/api/fjgd.php?id=tjws
+辽宁卫视 ,https://live.v1.mk/api/fjgd.php?id=lnws
+黑龙江卫视 ,https://live.v1.mk/api/fjgd.php?id=hljws
+东方卫视 ,https://live.v1.mk/api/fjgd.php?id=dfws
+江苏卫视 ,https://live.v1.mk/api/fjgd.php?id=jsws
+浙江卫视 ,https://live.v1.mk/api/fjgd.php?id=zjws
+安徽卫视 ,https://live.v1.mk/api/fjgd.php?id=ahws
+江西卫视 ,https://live.v1.mk/api/fjgd.php?id=jxws
+山东卫视 ,https://live.v1.mk/api/fjgd.php?id=sdws
+湖北卫视 ,https://live.v1.mk/api/fjgd.php?id=hubws
+湖南卫视 ,https://live.v1.mk/api/fjgd.php?id=hunws
+广东卫视 ,https://live.v1.mk/api/fjgd.php?id=gdws
+深圳卫视 ,https://live.v1.mk/api/fjgd.php?id=szws
+贵州卫视 ,https://live.v1.mk/api/fjgd.php?id=gzws
+三沙卫视 ,https://live.v1.mk/api/fjgd.php?id=ssws
+
 湖南卫视 ,https://live.v1.mk/aishang/hunwshd
 浙江卫视 ,https://live.v1.mk/aishang/zjwshd
 东方卫视 ,https://live.v1.mk/aishang/dfwshd
