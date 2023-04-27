@@ -355,11 +355,13 @@ BTV纪实科教-8KSDR源 ,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1
 芒果TV ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 
 体育|频道,#genre#
+劲爆体育 ,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 劲爆体育 ,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 劲爆体育 ,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 劲爆体育 ,http://61.156.196.215/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 劲爆体育 ,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 劲爆体育 ,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
+五星体育 ,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 五星体育 ,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 五星体育 ,http://61.156.196.215/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 五星体育 ,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
