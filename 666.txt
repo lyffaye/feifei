@@ -331,6 +331,8 @@ CCTV17 ,https://live.v1.mk/api/cqyx.php?id=cctv17HD
 兵团卫视 ,https://live.v1.mk/api/cqyx.php?id=bingtuanSD
 三沙卫视 ,https://live.v1.mk/api/cqyx.php?id=sanshaSD
 青海卫视 ,https://live.v1.mk/api/cqyx.php?id=qinghaiSD
+新疆卫视 ,https://live.v1.mk/api/cqyx.php?id=xinjiangSD
+西藏卫视 ,https://live.v1.mk/api/cqyx.php?id=xizangSD
 
 4K|频道,#genre#
 欢笑剧场4K ,https://live.v1.mk/api/cqyx.php?id=hxjc_4K
