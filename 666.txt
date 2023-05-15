@@ -72,32 +72,57 @@ CHC家庭影院,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240323_1/pl
 
 
 央视|频道,#genre#
+
+CCTV1 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225829/index.m3u8
+CCTV1 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227014/index.m3u8
 CCTV1 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
 CCTV1 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226908/index.m3u8
 CCTV1 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226995/index.m3u8
+CCTV2 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
+CCTV2 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226795/index.m3u8
 CCTV2 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8
 CCTV2 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226915/index.m3u8
+CCTV3 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227256/index.m3u8
 CCTV3 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227055/index.m3u8
+CCTV4 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
+CCTV4 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227225/index.m3u8
 CCTV4 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226968/index.m3u8
+CCTV5 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227229/index.m3u8
 CCTV5 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227170/index.m3u8
+CCTV5+ ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225821/index.m3u8
 CCTV5+ ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
 CCTV5+ ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226919/index.m3u8
+CCTV6 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227260/index.m3u8
 CCTV6 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227137/index.m3u8
+CCTV7 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
 CCTV7 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225927/index.m3u8
 CCTV7 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226972/index.m3u8
+CCTV8 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227266/index.m3u8
 CCTV8 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8
+CCTV9 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225820/index.m3u8
 CCTV9 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8
 CCTV9 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226923/index.m3u8
+CCTV10 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225814/index.m3u8
 CCTV10 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225931/index.m3u8
 CCTV10 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226976/index.m3u8
+CCTV11 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
+CCTV11 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227233/index.m3u8
 CCTV11 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226927/index.m3u8
+CCTV12 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
 CCTV12 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225932/index.m3u8
 CCTV12 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226931/index.m3u8
+CCTV13 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
+CCTV13 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227237/index.m3u8
 CCTV13 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226985/index.m3u8
+CCTV14 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225819/index.m3u8
 CCTV14 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225933/index.m3u8
 CCTV14 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227086/index.m3u8
+CCTV15 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
+CCTV15 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227270/index.m3u8
 CCTV15 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226989/index.m3u8
+CCTV16 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227148/index.m3u8
 CCTV16 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227125/index.m3u8
+CCTV17 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
 CCTV17 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
 
 CCTV1 ,http://60.167.226.213/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614vXukv%2Bllu6MCULXDoxJ6upZMyB3BTGL8Fz1cBrzuGpUOEVg8724ObgLgS2tj%2FSq8xWZ1p4rvSaCId2u7KLjn%2F46Kf00Xa0UUCbNAV9EWdHyJMhivxx1S8fcvB8Encq%2Br2%2FNnfOdizLLGdg97cAjQVBrJ5ycvSCIUdxWiGJJfFI3hgreSH2tPUplkub%2BeFttIQ%3D%3D&USERTOKEN=OcdSKDHIYJi7z1i4zpgoeOB0O2BhR0KR
