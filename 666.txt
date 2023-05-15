@@ -67,7 +67,6 @@ NewTV精品萌宠 4M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224
 SiTV动漫秀场 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227071/index.m3u8
 SiTV欢笑剧场 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227145/index.m3u8
 SiTV游戏风云 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227075/index.m3u8
-SiTV东方财经 7M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227087/index.m3u8
 SiTV金色学堂 7M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227208/index.m3u8
 SiTV生活时尚 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227091/index.m3u8
 SiTV都市剧场 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227204/index.m3u8
@@ -76,8 +75,6 @@ SiTV都市剧场 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/
 北京纪实科教 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
 湖南金鹰纪实 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226975/index.m3u8
 湖南金鹰纪实 7M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226937/index.m3u8
-湖南快乐垂钓 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227028/index.m3u8
-湖南快乐垂钓 4M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226940/index.m3u8
 湖南金鹰卡通 7M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
 影视1 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226741/index.m3u8
 影视2 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
@@ -105,7 +102,6 @@ SiTV都市剧场 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/
 咪咕视频 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227158/index.m3u8
 咪咕视频 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227189/index.m3u8
 咪咕视频 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227228/index.m3u8
-新视觉,https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
 新视觉,http://wabc.ml/sxg.php?id=ycxsjH265_4000
 新视觉,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 新视觉,http://112.25.48.69/live/program/live/xsjhd/4000000/mnf.m3u8?blog.ntnas.top
@@ -318,7 +314,6 @@ CCTV17 ,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240326_1/playlist.m
 
 
 4K|频道,#genre#
-欢笑剧场4K ,https://live.v1.mk/api/cqyx.php?id=hxjc_4K
 欢笑剧场4K ,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
 CCTV4K ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
 CCTV4K ,http://159.75.85.63:5679/cctv4k.php
